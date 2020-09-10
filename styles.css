@@ -16,6 +16,13 @@ body {
   margin: auto;
 
 }
+.start{
+  margin: 10px;
+
+  border: 1px solid black;
+  border-radius: 20%;
+  background-color: white;
+}
 
 .btn {
   margin: 25px;
